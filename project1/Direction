@@ -1,0 +1,11 @@
+
+Start: ADDGUI(ACTIVE or NA)
+
+
+
+ACTIVE -> CustomerDetils(ENETER ACC) -> TickGUI(DEstination) -> TickAm(TicketAmount)
+-> TicketAge(Tickage * amount) &&  PaymentGUI(how would u like to pay)
+
+
+NA -> TickGUI(DEstination) -> TickAm(TicketAmount) -> TicketAge(Tickage * amount)
+&& PaymentGUI(how would u like to pay)
